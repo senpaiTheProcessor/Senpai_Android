@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "95920600405",
+    "project_id": "senpai-4f5ec",
+    "storage_bucket": "senpai-4f5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95920600405:android:1e01f9b11a6f36506f6bdc",
+        "android_client_info": {
+          "package_name": "com.ps.senpai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95920600405-iofdn0fg8q300mq23ulfuc9n6icbimt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps.senpai",
+            "certificate_hash": "1d476a8039ccaabc6bee5322f5d22a8e3bd24a03"
+          }
+        },
+        {
+          "client_id": "95920600405-0kmeap79o1o05orh1gvvpmlu5k01p9rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwGFDDTx2H5wiCU6Cs1tTZsTuC1J4RFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95920600405-0kmeap79o1o05orh1gvvpmlu5k01p9rs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95920600405-u7emrorpuruq5btdcom2enpevf479r0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ps.senpai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

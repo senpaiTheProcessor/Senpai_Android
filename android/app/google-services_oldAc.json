@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124272338696",
+    "project_id": "senpai-b950a",
+    "storage_bucket": "senpai-b950a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124272338696:android:070d1e34c23164f85b6ebd",
+        "android_client_info": {
+          "package_name": "com.ps.senpai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124272338696-5u5c167trlalh4vjgqu043ejnq510e3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFE2pcNCGyQnQTdk6nIiYb9aO4Plo-7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124272338696-5u5c167trlalh4vjgqu043ejnq510e3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
